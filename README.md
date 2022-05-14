@@ -1,2 +1,2 @@
 # Inmet
-Script para consultar e baixar dados de estacoes do INMET
+Script para consultar e baixar dados de estações do INMET
